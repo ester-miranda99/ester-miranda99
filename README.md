@@ -23,7 +23,7 @@
 
 ## 📂 Projetos em que meti o bedelho
 
-### 💅 [Site de Estética - Projeto Acadêmico ([https://github.com/deku586/web_development])
+### 💅 [Site de Estética - Projeto Acadêmico (https://github.com/deku586/web_development)
 
 Trabalho de faculdade desenvolvido em equipe. Contribuí adicionando interações aos botões do site, integrando o endereço da clínica com a API do Google Maps, além de ajustes e complementos em trechos do HTML e CSS, principalmente nas seções superior e inferior da página (como "Quem Somos" e "Contatos").
 
