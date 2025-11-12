@@ -6,11 +6,6 @@
 🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  
 💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila  
 
-## 🤓 Meu lema  
-> _"Código ruim se explica. Código bom se entende."_ 😎  
-- Defensora da acessibilidade e da arquitetura limpinha  
-- Resolvedora de bugs nível chefão (ou quase isso)  
-
 ## 🎯 Fora dos códigos  
 
 🎮 Apaixonada por jogos de plataforma e metroidvania (Celeste, Hollow Knight, Dead Cells, essas obras-primas que fazem chorar e suar ao mesmo tempo)  
