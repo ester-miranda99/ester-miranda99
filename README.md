@@ -38,12 +38,12 @@ Para complementar minha formação acadêmica, busco especializações estratég
 ### 🏋️ Sistema de Agendamento: Aluno & Personal Trainer
 *Projeto acadêmico focado em integração e persistência de dados.*
 * **Minha contribuição:** Responsável por toda a estrutura do **banco de dados**, garantindo o armazenamento correto e a segurança das informações de alunos e profissionais, além da lógica de busca.
-* 🔗 [Link para o repositório (se houver)](https://github.com/ester-miranda99)
+* 🔗 
 
 ### 💅 Site para Clínica de Estética
 *Desenvolvimento em equipe focado em experiência do usuário e funcionalidades reais.*
 * **Minha contribuição:** Implementação da **API do Google Maps**, criação de interatividade nos botões via JavaScript e ajustes finos de layout (Header/Footer).
-* 🔗 [Link para o repositório](https://github.com/deku586/web_development)
+* 🔗
 
 ---
 
