@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninove**. Meu objetivo principal é consolidar minha carreira na **Engenharia de Software**, focando na construção de sistemas robustos e eficientes. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninove**. Meu objetivo principal é consolidar minha carreira na **Engenharia de Software**, focando na construção de sistemas eficientes e robustos. 
 
 Para complementar minha formação acadêmica, busco especializações estratégicas:
 * 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas (Uninove).
@@ -18,7 +18,7 @@ Para complementar minha formação acadêmica, busco especializações estratég
 
 ---
 
-## 📊 Estatísticas (Dracula Theme)
+## 📊 Estatísticas
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ester-miranda99&theme=dracula" height="150" />
