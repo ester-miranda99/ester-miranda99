@@ -48,7 +48,7 @@ Para complementar minha formação acadêmica, busco especializações estratég
 ---
 
 ## 🛠 Skills & Ferramentas
-Aqui estão as tecnologias que realmente domino e utilizo no meu dia a dia:
+Aqui estão as tecnologias que domino (ou quase 😅)
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,py,c,git,github,vscode,html,css,js" height="40" alt="tech icons" />
