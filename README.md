@@ -13,8 +13,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninove**. Meu 
 
 Para complementar minha formação acadêmica, busco especializações estratégicas:
 * 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas (Uninove).
-* 📊 **Análise de Dados:** Certificado Profissional Google (via Coursera).
-* ☕ **Java Backend:** Bootcamp Santander/DIO (em andamento).
+* 📊 **Análise de Dados:** Certificado Profissional Google (via Coursera) (em andamento).
+* ☕ **Java Backend:** Bootcamp Santander/DIO 2026 (em andamento).
 
 ---
 
@@ -38,12 +38,12 @@ Para complementar minha formação acadêmica, busco especializações estratég
 ### 🏋️ Sistema de Agendamento: Aluno & Personal Trainer
 *Projeto acadêmico focado em integração e persistência de dados.*
 * **Minha contribuição:** Responsável por toda a estrutura do **banco de dados**, garantindo o armazenamento correto e a segurança das informações de alunos e profissionais, além da lógica de busca.
-* 🔗 
+* 🔗 https://github.com/uninovefit/Projeto_BackEnd (perfil acadêmico que criamos para colocar o projeto)
 
 ### 💅 Site para Clínica de Estética
 *Desenvolvimento em equipe focado em experiência do usuário e funcionalidades reais.*
 * **Minha contribuição:** Implementação da **API do Google Maps**, criação de interatividade nos botões via JavaScript e ajustes finos de layout (Header/Footer).
-* 🔗
+* 🔗 https://github.com/deku586/web_development (repositórios do projetos colocados nesse perfil que é de um dos integrantes do meu antigo grupo)
 
 ---
 
